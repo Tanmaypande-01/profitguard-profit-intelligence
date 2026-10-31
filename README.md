@@ -4,7 +4,7 @@ An end-to-end profit analytics project using **MySQL** and **Power BI**. It find
 
 
 
-![Executive Summary](dashboard/screenshots/01_summary.png)
+![Executive Summary](dashboard_screenshots/01_summary.png.png)
 
 
 
@@ -44,12 +44,12 @@ MySQL 8, MySQL Workbench, Power BI Desktop, DAX
 
 
 
-![Discount](dashboard/screenshots/02_discount.png)
+![Discount](dashboard_screenshots/02_discount.png.png)
 
 
 
 
-![Action Plan](dashboard/screenshots/06_action_plan.png)
+![Action Plan](dashboard_screenshots/06_action_plan.png.png)
 
 
 
