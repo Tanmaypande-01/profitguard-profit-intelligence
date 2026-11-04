@@ -63,10 +63,9 @@ Cap discounts at 20% with manager approval, fix or drop 12 loss-making products,
 
 ## Repository structure
 ```
-data/        synthetic dataset (CSV)
-sql/         cleaning, schema, views, leakage queries
-dashboard/   Power BI file, PDF, screenshots
-docs/        ER diagram, model view
+dashboard_screenshots/        01_summary.png, 02_discount.png, 03_oprations.png, 04_customers.png, 05_ai_insights.png, 06_action_plan.png,
+docs/                         er_diagram, model_view
+sql/                          01_staging_and_cleaning, 02_start_schema, 03_views, 04_leakage_queries
 ```
 
 ## How to use
