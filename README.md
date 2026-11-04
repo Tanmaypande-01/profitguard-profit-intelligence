@@ -68,8 +68,5 @@ docs/                         er_diagram, model_view
 sql/                          01_staging_and_cleaning, 02_start_schema, 03_views, 04_leakage_queries
 ```
 
-## How to use
-Open `dashboard/ProfitGuard.pbix` in Power BI Desktop (data is included). To rebuild, import the CSV files into MySQL and run the SQL scripts in order.
-
 ## Author
 Tanmay Pande |LinkedIn link - https://www.linkedin.com/in/tanmay-pande-5558202b9 | tanmaypande321@gmail.com
